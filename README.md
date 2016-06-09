@@ -2,8 +2,9 @@
 
 if you want to work with Channels & Methods with upper than Layer 23 Contact me.
 
-telegram : @keyvan_ar
-email : keyvan.arasteh@gmail.com
+Telegram : [Contact By Telegram](https://telegram.me/keyvan_ar)
+
+Email : keyvan.arasteh@gmail.com
 
 [![Build status](https://ci.appveyor.com/api/projects/status/95rl618ch5c4h2fa?svg=true)](https://ci.appveyor.com/project/sochix/tlsharp)
 
