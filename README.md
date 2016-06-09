@@ -1,6 +1,6 @@
 #TLSharp
 
-if you want to work with Channels & Methods with upper than Layer 23 Contact me.
+if you want to work with Channels & Methods with upper than Layer 23 (Layer 52 (Latest Layer)) Contact me.
 
 Telegram : [Contact By Telegram](https://telegram.me/keyvan_ar)
 
