@@ -270,11 +270,12 @@ Create an issue in project bug tracker.
 
 Without information listen above your issue will be closed. 
 # Donations
-Thanks for donations! It's highly appreciated. 
-Bitcoin wallet: **3K1ocweFgaHnAibJ3n6hX7RNZWFTFcJjUe**
 
-List of donators:
-* [mtbitcoin](https://github.com/mtbitcoin)
+Fore more info about latest version (Layer52 API) contact me : 
+
+Telegram : [Contact By Telegram](https://telegram.me/keyvan_ar)
+
+Email : keyvan.arasteh@gmail.com
 
 # License
 
