@@ -7,7 +7,7 @@ email : keyvan.arasteh@gmail.com
 
 [![Build status](https://ci.appveyor.com/api/projects/status/95rl618ch5c4h2fa?svg=true)](https://ci.appveyor.com/project/sochix/tlsharp)
 
-Telegram (http://telegram.org) client library implemented in C#. Only basic functionality is currently implemented. **Consider donation to speed up development process.** Bitcoin wallet: **3K1ocweFgaHnAibJ3n6hX7RNZWFTFcJjUe**
+Telegram (http://telegram.org) client library implemented in C#. Only basic functionality is currently implemented.
 
 It's a perfect fit for any developer who would like to send data directly to Telegram users.
 
@@ -15,9 +15,7 @@ It's a perfect fit for any developer who would like to send data directly to Tel
 
 :exclamation: **Please, don't use it for SPAM!**
 
-[How-To: Send messages to Telegram from C#](http://www.sochix.ru/how-to-send-messages-to-telegram-from-c/)
-
-:ru: Russian description you can find [here](https://habrahabr.ru/post/277079/)
+[How-To: Send messages to Telegram from C#](#)
 
 #Table of contents?
 
@@ -44,7 +42,7 @@ To use it follow next steps:
 #Dependencies
 
 TLSharp has a few dependenices, most of functionality implemented from scratch.
-All dependencies listed in [package.conf file](https://github.com/sochix/TLSharp/blob/master/TLSharp.Core/packages.config).
+All dependencies listed in [package.conf file](https://github.com/keyvanarasteh/TLSharp/blob/master/TLSharp.Core/packages.config).
 
 #Starter Guide
 
@@ -233,11 +231,11 @@ public class ExampleRequest : MTProtoRequest
 }
 ```
 
-More advanced examples you can find in [Requests folder](https://github.com/sochix/TLSharp/tree/master/TLSharp.Core/Requests). 
+More advanced examples you can find in [Requests folder](https://github.com/keyvanarasteh/TLSharp/tree/master/TLSharp.Core/Requests). 
 
 ###What things can I Implement (Project Roadmap)?
 
-* Factor out current TL language implementation, and use [this one](https://github.com/everbytes/SharpTL)
+* Factor out current TL language implementation
 * Add possibility to get current user Chats and Users
 * Fix Chat requests (Create, AddUser) 
 * Add Updates handling
@@ -283,7 +281,7 @@ List of donators:
 
 The MIT License
 
-Copyright (c) 2015 Ilya Pirozhenko http://www.sochix.ru/
+Copyright (c) 2015 Ilya Pirozhenko http://www.sochix.ru/ , Upgraded to layer 52 by Keyvan Arasteh
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
